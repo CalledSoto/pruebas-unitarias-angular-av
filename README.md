@@ -1,5 +1,5 @@
-# pruebas-unitarias-angular-av
-# Este proyecto fue realizado a partir de los conocimientos adquiridos en el Curso de Angular Avanzado
+# unit-testing-angular-av
+# This proyect was made by implementing the knowledge of the Angular Unit Testing Course
 <h1 align="center">Hi 👋, I'm Enmanuel Soto</h1>
 <h3 align="center">A passionate software developer from Dominican Republic</h3>
 
